@@ -1,5 +1,4 @@
 # JISAA How to run the app 
-Please open the "upgraged chainsaw" codespaces 
 (As i was trying different methods to solve Bad gateway error so I created and worked on new codespaces)
 Just write docker compose up in the codespaces terminal 
 and if you want to run this app on PyCharm or visual studio use python manage.py runserver 
