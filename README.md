@@ -2,6 +2,9 @@
 Just write docker compose up in the codespaces terminal 
 and if you want to run this app on py charm or visual studio use python manage.py runserver 
 and after that click on the server link
+App might get a bug error on codespaces saying 502 Bad Gateway which is a Git problem(tried to solve it and solutions but found it Git have this problem)
+So if you also get the same bug and error run the app on local host using pyhcarm/visual studio (python manage.py runserver) 
+And afterthat come to codeapsces and run the following command and run it (docker compose up) and after that a link wil lbe created DO NOT OPEN THAT LINK RATHER COPY THAT LINK AND PASTE IT IN THE NEW TAB AND IT SHOULD WORK FINE!! (that is the solution I came up with)
 This is an Django App that integrates messaging with another messaging app (Slack).
 It was made to solve the  problem of missing messages due to juggling different messaging platforms.
 So any message sent on this app gets received on Slack. The Tech Stack are Django, Html, Slack  and all their requirements. 
