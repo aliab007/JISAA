@@ -2,7 +2,7 @@
 Please open the "upgraged chainsaw" codespaces 
 (As i was trying different methods to solve Bad gateway error so I created and worked on new codespaces)
 Just write docker compose up in the codespaces terminal 
-and if you want to run this app on py charm or visual studio use python manage.py runserver 
+and if you want to run this app on PyCharm or visual studio use python manage.py runserver 
 and after that click on the server link
 App might get an error on codespaces saying 502 Bad Gateway which is a Git problem(tried to solve it and solutions but found it Git have this problem)
 Error link (https://aliab007-upgraded-chainsaw-x5wrwvgg444q2p9g9-8000.preview.app.github.dev/)
